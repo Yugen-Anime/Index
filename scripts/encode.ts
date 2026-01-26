@@ -95,7 +95,7 @@ function main() {
     process.exit(1);
   }
   
-  const targetDir = join(process.cwd(), 'index', id);
+  const targetDir = join(__dirname, '..', 'index', id);
   
   if (!existsSync(targetDir)) {
     console.error(`❌ Le dossier ${targetDir} n'existe pas`);
