@@ -1,0 +1,12 @@
+{
+    "langs": [
+        "vo",
+        "vf"
+    ],
+    "providers": [
+        "smoothpre",
+        "video",
+        "vidmoly",
+        "sendvid"
+    ]
+}
