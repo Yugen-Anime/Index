@@ -1,0 +1,11 @@
+{
+    "langs": [
+        "vo",
+        "vf"
+    ],
+    "providers": [
+        "sendvid",
+        "video",
+        "vidmoly"
+    ]
+}
