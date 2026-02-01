@@ -1,3 +1,5 @@
 {
-    "langs": ["vf"]
+  "langs": {
+    "vf": ["vidmoly"]
+  }
 }

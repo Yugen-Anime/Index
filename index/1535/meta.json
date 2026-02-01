@@ -1,12 +1,6 @@
 {
-    "langs": [
-        "vo",
-        "vf"
-    ],
-    "providers": [
-        "smoothpre",
-        "video",
-        "vidmoly",
-        "sendvid"
-    ]
+  "langs": {
+    "vf": ["sendvid", "smoothpre", "video", "vidmoly"],
+    "vostfr": ["sendvid", "smoothpre", "video", "vidmoly"]
+  }
 }
